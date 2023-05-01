@@ -1,5 +1,5 @@
 package javasessions;
-
+// Token -- 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
 public class ArithmeticConcepts {
 
 	public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class ArithmeticConcepts {
 		System.out.println(9/2); // 4 
 		System.out.println(9/2.0); // 4.5 
 		System.out.println(9.0/2); // 4.5 
-		System.out.println(8/3); // 2  //
+		System.out.println(8/3); // 2  
 		System.out.println(9.0/2.0); // 4.5  
 		
 		// System.out.println(8/0);  // ArithmeticException: / by zero
@@ -35,7 +35,6 @@ public class ArithmeticConcepts {
 		String s = "hello";
 		String s1 = "World";
 		System.out.println(s+" "+s1);
-		
 		
 	}
 }
