@@ -9,7 +9,7 @@ public class ArithmeticConcepts {
 		System.out.println(9/2.0); // 4.5 
 		System.out.println(9.0/2); // 4.5 
 		System.out.println(8/3); // 2 
-		System.out.println(9.0/2.0); // 4.5 
+		System.out.println(9.0/2.0); // 4.5  //
 		
 		// System.out.println(8/0);  // ArithmeticException: / by zero
 		
